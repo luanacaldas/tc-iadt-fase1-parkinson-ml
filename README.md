@@ -24,7 +24,7 @@ pip install -r requirements.txt
 jupyter notebook TC_1_fiap.ipynb
 ```
 
-Ou acesse direto no [Google Colab](https://colab.research.google.com/github/luanacaldas/tc-iadt-fase1-parkinson-ml/blob/main/TC_1_fiap.ipynb)
+Ou acesse direto no [Google Colab]([https://colab.research.google.com/github/luanacaldas/tc-iadt-fase1-parkinson-ml/blob/main/TC_1_fiap.ipynb](https://colab.research.google.com/drive/1UWMIe3j_0MwNVsup-epe7WGo9Mx4gDt2?usp=sharing))
 
 ## 📁 Dataset
 
